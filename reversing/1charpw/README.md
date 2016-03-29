@@ -1,0 +1,6 @@
+### 1-char passwords are the best!
+
+I had a secret, so I decided to make a simple program to hide it! I forgot
+what the secret is, and now I also forgot the password to open the program...
+Can you find the password? I knew I would forget it so I made the password
+only 1 char, to make it at least recoverable...
