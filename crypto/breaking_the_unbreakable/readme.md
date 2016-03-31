@@ -1,5 +1,5 @@
 ### Break the unbreakable
-**Points: 350**
+**Points: 400**
 
 The Anti-Spirals have just read about OTP and LFSRs and encrypted the flag with
 what they think is an unbreakable cryptosystem. Prove them wrong and break
